@@ -381,7 +381,7 @@ footer p {
   }
   #hero-landscape {
     display: block;
-    width: 100%;
+    max-width: 450px;
   }
   /* SHOWCASE SECTION */
   /* --------------------------------------------------------- */
